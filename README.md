@@ -7,7 +7,7 @@ This project is a prototype showcasing the industrial application of OpenCV asso
 ## Raspbery pi Installation - 
 We need OS buster to do the project. Installation [Link](https://core-electronics.com.au/guides/raspberry-pi/flash-buster-os-pi/)
 - Step 1 -- Download the zip file(in Raspberry Pi 4B)
-- sTEP 2 -- You will see following folder in the zip file a. All fingersopen.py  b. Module.py  c. OpenCV.py d. Readme.md
+- Step 2 -- You will see following folder in the zip file - (a)All fingersopen.py  (b) Module.py  (c) OpenCV.py  (d)Readme.md
 ## Install Packages in Raspberry pi -- 
 1. To install Opencv in raspberry pi 4B follow this command on terminal -
  - sudo apt-get update && sudo apt-get upgrade
@@ -34,7 +34,7 @@ We need OS buster to do the project. Installation [Link](https://core-electronic
                                 -D OPENCV_EXTRA_MODULES_PATH=~/opencv_contrib-4.4.0/modules \
                                 -D BUILD_EXAMPLES=ON ..
 - make -j $(nproc)
-- Command will take over an hour to install and there will be no indication of how much longer it will take.
+- Above Command will take over an hour to install and there will be no indication of how much longer it will take.
 - sudo make install && sudo ldconfig
 - sudo reboot
 
@@ -48,7 +48,7 @@ We need OS buster to do the project. Installation [Link](https://core-electronic
 4. To install gtts 
 - sudo pip3 install gTTS
 
-# Programming using Thony-
+# Programming using Thonny Python IDE-
 
 # module.py
 Importing necessary libraries needed for the code - 
@@ -197,5 +197,5 @@ To convert the text into speech mode.
        break</pre>
                    
 # Summary 
-3D printable material, which results in a safe interaction with human bodies. Each gripper finger is designed to mimic the real-world movement of a human finger.
+This 3D printable hand, which results in a safe interaction with human bodies. Each gripper finger is designed to mimic the real-world movement of a human finger.
 Thats how it is installed on to a Universal Robot(UR5e) to act as a gripper. 
