@@ -48,6 +48,9 @@ We need OS buster to do the project. Installation [Link](https://core-electronic
 4. To install gtts 
 - sudo pip3 install gTTS
 
+5. To install Fswebcam in Raspberry pi4B
+- [Link to install](https://www.youtube.com/watch?v=_uVaZalaSbI)
+
 # Programming using Thonny Python IDE-
 
 # module.py
@@ -98,7 +101,7 @@ def findnameoflandmark(frame1):
      return list
 </pre>
  
-# Open.py - 
+# Opencv.py - 
 This code is the main file, where we are using OpenCV platform to track and detect the human hand motion using mediapipe model.
 
 Importing necessary Libraries.
