@@ -1,4 +1,5 @@
-# Robot Hand ![OK robot hand Stock Photo](https://user-images.githubusercontent.com/100229177/221417584-fccd6dab-c520-46e9-8048-14444e87c0a5.png)
+# __Robot Hand__ ![OK robot hand](https://user-images.githubusercontent.com/126341194/221851360-df9ffd0c-442c-4702-aa64-150052dbed03.PNG)
+
 
 ## A robot hand that mimic human hand gesture using OpenCV which is installed in Raspberry pi 4B.
 ## General Information-
